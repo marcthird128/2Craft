@@ -1,0 +1,26 @@
+{
+  "name": "2craft",
+  "version": "1.0.0",
+  "description": "2d minecraft",
+  "main": "start.js",
+  "scripts": {
+    "test": "start.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcthird128/2Craft.git"
+  },
+  "keywords": [
+    "game",
+    "minecraft"
+  ],
+  "author": "Maza Shmaza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcthird128/2Craft/issues"
+  },
+  "homepage": "https://github.com/marcthird128/2Craft#readme",
+  "dependencies": {
+    "webpack": "^5.97.1"
+  }
+}
